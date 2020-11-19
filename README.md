@@ -1,2 +1,0 @@
-# jira
-Sistema de Tareas
